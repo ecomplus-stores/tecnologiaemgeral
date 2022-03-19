@@ -52,6 +52,14 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 16,
+      "page": 1,
+      "sort": "news",
+      "headless": false
     }
   ]
 }
