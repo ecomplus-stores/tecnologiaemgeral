@@ -42,6 +42,11 @@
       "type": "page-title",
       "title": "TECNOLOGIA EM GERAL",
       "description": "Loja de Eletrônicos, Celular e muitos outros Produtos.  Economize. Encontre o menor Preço no melhor"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
