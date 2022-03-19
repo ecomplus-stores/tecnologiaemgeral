@@ -60,6 +60,14 @@
       "page": 1,
       "sort": "news",
       "headless": false
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 18,
+      "page": 1,
+      "sort": "offers",
+      "headless": true
     }
   ]
 }
