@@ -35,7 +35,7 @@
       "sort": "news",
       "title": "Promoção",
       "headless": true,
-      "limit": 12,
+      "limit": 24,
       "page": 3
     },
     {
