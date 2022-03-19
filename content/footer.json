@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "TECNOLOGIA EM GERAL ",
+    "text": "Loja De Eletrônicos Inteligentes, Loja Online"
   },
   "links_1": {
     "list_pages": true,
@@ -30,16 +30,20 @@
     "bb": true,
     "visa": true,
     "boleto": true,
-    "aura": false,
+    "aura": true,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": true,
     "santander": false,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
-    "mais": false,
+    "hiper": true,
+    "diners": true,
+    "mais": true,
+    "amex": true,
     "itau": true
   },
   "credits": ""
